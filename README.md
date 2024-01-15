@@ -23,6 +23,3 @@ This project is all about bringing a touch of romance and fun to the question, "
 
 Feel free to explore and enjoy the romantic ambiance created just for you! 🌟
 
-## Author
-
-Made with love by [Anmol](https://www.instagram.com/fineanmol/) ❤️
